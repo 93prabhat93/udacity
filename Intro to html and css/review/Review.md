@@ -1,5 +1,5 @@
 # Review
-
+# Score : 6 / 10 
 > Your 'README.md' file should be in 'Intro to HTML and CSS' directory. 
 
 ##HTML 
